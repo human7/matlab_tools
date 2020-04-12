@@ -1,8 +1,20 @@
 
 
 
+## Add new files 2020/04/13
 
-## 效果
+原来只是更新`functionList.xml`文件，现在新加入了两个文件`shortcuts.xml`和`stylers.xml`，算是我个人的习惯。
+
+文件说明：
+- `functionlist.xml`：设置扩展**函数列表功能**
+- `shortcuts.xml`：快捷键设置
+- `stylers.xml`：各种语言的配色
+
+
+
+
+
+## functionlist带来的效果
 
 扩展`notepad++`的功能，以便于方便的阅读**matlab代码**。
 
